@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(8, 80, 160);
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.main-element {
+    text-align: center;
+    font-size: 24px;
+}

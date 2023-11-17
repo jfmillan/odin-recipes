@@ -7,7 +7,57 @@ h1 {
     font-size: 36px;
 }
 
+.background {
+    background-color: #1f2c4f;
+}
+
 .main-element {
     text-align: center;
     font-size: 24px;
+}
+
+.sub-element {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(220, 250, 220);
+    background-color: rgb(8, 80, 160);
+    margin-left:10%;
+    margin-right: 40%;
+    margin-top: 2%;
+    line-height: 130%;
+}
+
+.ingredient {
+    margin-left:35%;
+}
+
+.steps {
+    margin-left:15%;
+}
+
+.ingredient,
+.steps {
+    margin-block-end: 5%;
+}
+
+img {
+    height: auto;
+	width: 400px;
+}
+
+a {
+    color: #f9e561;
+    font-style: italic;
+}
+
+.main-items {
+    margin-block-end: 2%;
+    margin-block-start: 2%;
+    background-color: rgb(8, 80, 160);
+}
+
+.main-a-item {
+    font-style: normal;
+    color:whitesmoke;
+    text-decoration: none;
 }
